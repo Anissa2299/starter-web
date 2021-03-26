@@ -1,9 +1,9 @@
 # Starter Web Repo
 
+## Introduction
+
 ## Purpose
 
-##Deployment
+## Deployment
 
-##Introduction
-
-##How To Contribute
+## How To Contribute
